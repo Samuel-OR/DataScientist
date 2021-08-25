@@ -15,8 +15,11 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
 * **Análise Exploratória de Dados do Airbnb - Paris, França:** https://bit.ly/3kk6IjD
 
+## Códigos dos Projetos:
+
+* **Análise Exploratória de Dados do Airbnb - Paris, França:** https://github.com/Samuel-OR/DataScientist/blob/main/Analisando_os_Dados_do_Airbnb_SamuelOR.ipynb
 ---
